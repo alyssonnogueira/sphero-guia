@@ -8,16 +8,11 @@
         <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1" />
         <option name="modules">
           <set>
-            <option value="/mnt/Principal/Google Drive/Ciência da Computação/Sistemas Interativos para Museus (PROC II)/sphero-guia/Sphero-Guia" />
-            <option value="/mnt/Principal/Google Drive/Ciência da Computação/Sistemas Interativos para Museus (PROC II)/sphero-guia/Sphero-Guia/app" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="/mnt/Principal/Google Drive/Ciência da Computação/Sistemas Interativos para Museus (PROC II)/sphero-guia/Sphero-Guia" />
-            <option value="/mnt/Principal/Google Drive/Ciência da Computação/Sistemas Interativos para Museus (PROC II)/sphero-guia/Sphero-Guia/app" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
