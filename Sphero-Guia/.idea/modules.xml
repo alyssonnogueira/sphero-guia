@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalibrationLibrary/CalibrationLibrary.iml" filepath="$PROJECT_DIR$/CalibrationLibrary/CalibrationLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sphero-Guia.iml" filepath="$PROJECT_DIR$/Sphero-Guia.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
